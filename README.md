@@ -89,7 +89,6 @@
 └───test
 ```
 
-+ Folder naming can be singular or plural, but should be standardized
 ### Root folders:
 + *assets* - This folder contains static files images, icons, fonts, or other media.
 + *i18n* - This folder is typically includes language files and translations to support multiple languages in the application
