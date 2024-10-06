@@ -125,6 +125,7 @@
 + *middleware* - Handle requests before they reach the main application logic
 + *scripts* - Collection of scripts used for various runs, such as database migrations.
 + *services* - Functions business logic and service-related 
+```
 
 ## Running the app
 
