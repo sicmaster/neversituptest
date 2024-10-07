@@ -52,12 +52,9 @@
 │   │   ├───authentication
 │   │   ├───master
 │   │   │   └───edi
-│   │   │       ├───access-log
-│   │   │       ├───app-global-var
-│   │   │       ├───data-filter
-│   │   │       ├───lists
-│   │   │       ├───message-mapping
-│   │   │       └───message-prop
+│   │   │       ├───logs
+│   │   │       ├───mapping
+│   │   │       └───prop
 │   │   ├───mock
 │   │   ├───openapi
 │   │   │   └───api
