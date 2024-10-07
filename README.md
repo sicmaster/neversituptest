@@ -15,7 +15,6 @@
 │   │   ├───lazada
 │   │   ├───open-api
 │   │   ├───sap-business-one
-│   │   ├───sap-hana
 │   │   └───shopee
 │   ├───cronjob
 │   │   └───src
@@ -39,7 +38,6 @@
 │   │       ├───lazada
 │   │       ├───message
 │   │       ├───openapi
-│   │       ├───sap-all-one
 │   │       ├───sap-business-one
 │   │       └───shopee
 │   └───token
@@ -74,8 +72,8 @@
 │   │   ├───database
 │   │   │   ├───migration
 │   │   │   └───model-to-type
-│   │   ├───header-comment
-│   │   ├───move-build
+│   │   ├───header
+│   │   ├───build
 │   │   ├───pkg
 │   │   └───test
 │   └───services
